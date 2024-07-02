@@ -1,0 +1,9 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:312:26:LL_SPI_IsEnabled	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:601:22:LL_SPI_SetCRCPolynomial	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:636:22:LL_APB1_GRP1_ForceReset	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:699:22:LL_APB1_GRP1_ReleaseReset	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:928:22:LL_APB2_GRP1_ForceReset	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:983:22:LL_APB2_GRP1_ReleaseReset	16	static
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.c:122:13:LL_SPI_DeInit	24	static
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.c:177:13:LL_SPI_Init	24	static
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.c:247:6:LL_SPI_StructInit	16	static
